@@ -3,7 +3,7 @@ package Script;
 public class DemoClass {
 
 	public static void main(String[] args) {
-System.out.println("i am not happy");
+System.out.println("i  happy");
 	}
 
 }
